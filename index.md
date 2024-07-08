@@ -10,7 +10,7 @@ Professor & Director of the Environmental Science Program at [Northern Kentucky 
     Image source: Interstate Commission on the Potomac River Basin</p>
 
 #### Contact Information
-* hopfenspek1@nku.edu
+* [hopfenspek1@nku.edu](hopfenspek1@nku.edu)
 * 859-572-5305
 * [LinkedIn](http://www.linkedin.com/in/kristine-hopfensperger-4a855680)
 * [GitHub](https://khopfens.github.io/khopfensperger.github.io)
