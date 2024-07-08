@@ -6,8 +6,8 @@ Professor & Director of the Environmental Science Program at [Northern Kentucky 
   src="https://www.potomacriver.org/wp-content/uploads/2017/08/Flickr-Dykes-Marsh-Geoff-Livingston.jpg"
   alt="Dyke Marsh Preserve, VA"
   width=25%>
-<p style= "font-size= 3;"> Dyke Marsh Preserve, Virginia <br>  
-    Image source: Interstate Commission on the Potomac River Basin</font></p>
+<p> Dyke Marsh Preserve, Virginia <br>  
+    Image source: Interstate Commission on the Potomac River Basin</p>
 
 #### Contact Information
 * hopfenspek1@nku.edu
