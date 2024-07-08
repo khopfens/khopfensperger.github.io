@@ -2,10 +2,12 @@
 Professor & Director of the Environmental Science Program at [Northern Kentucky University](https://www.nku.edu/academics/artsci/programs/undergraduate/environmental-science.html)
 
 #### I love wetlands!
-![wetland](https://www.potomacriver.org/wp-content/uploads/2017/08/Flickr-Dykes-Marsh-Geoff-Livingston.jpg "Dyke Marsh Preserve, VA") 
-
-<p>Dyke Marsh Preserve, Virginia<br>  
-Image source: Interstate Commission on the Potomac River Basin</p>
+<img
+  src="https://www.potomacriver.org/wp-content/uploads/2017/08/Flickr-Dykes-Marsh-Geoff-Livingston.jpg"
+  alt="Dyke Marsh Preserve, VA"
+  width=25%>
+<p style= "font-size= 3;"> Dyke Marsh Preserve, Virginia <br>  
+    Image source: Interstate Commission on the Potomac River Basin</font></p>
 
 #### Contact Information
 * hopfenspek1@nku.edu
